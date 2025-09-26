@@ -82,17 +82,7 @@ ReactDemo/
    - 开发模式: http://localhost:3000
    - 生产模式: http://localhost:5000
 
-### 方法二：使用启动脚本
-
-```bash
-# 给脚本执行权限 (Linux/Mac)
-chmod +x start.sh
-
-# 运行启动脚本
-./start.sh
-```
-
-### 方法三：Docker 部署
+### 方法二：Docker 部署
 
 #### 使用 Docker
 
