@@ -54,7 +54,7 @@ function App() {
       <header className="App-header">
         <div className="container">
           <h1 className="title">🚀 React + Node.js Demo</h1>
-          <p className="subtitle">Hello World 演示应用</p>
+          <p className="subtitle">Hello World</p>
           
           <div className="time-display">
             <span className="time-label">当前时间:</span>
