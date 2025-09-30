@@ -96,6 +96,9 @@ dist
 .cache/
 public
 
+# React项目的client/public目录应该被版本控制
+!client/public/
+
 # Storybook build outputs
 .out
 .storybook-out
